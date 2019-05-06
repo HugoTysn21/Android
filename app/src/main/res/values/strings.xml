@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AppRecipe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_weight">Weight</string>
+    <string name="title_activity_recipe">Recipe</string>
+    <string name="title_activity_measurement">Measurement</string>
+    <string name="add_new_weight">Ajoutez votre poids</string>
+    <string name="add_new_measure">Ajoutez votre mesures</string>
+    <string name="add_new_type_measure">Ajoutez votre type de membre</string>
+    <string name="title_sort_measure">Trier vos mesures</string>
+    <string name="title_measure">Mes mesures</string>
+    <string name="title_weight">Statistique de mon poids</string>
+    <string name="ing_title">Ingrédients :</string>
+    <string name="nut_title">Nutritions</string>
+    <string name="step_title">Etapes</string>
+    <string name="final_title">A vous de jouez !</string>
+    <string name="step_order">en 1</string>
+    <string name="step_value" />
+    <string name="title_activity_account">AccountActivity</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="date">date</string>
+    <string name="measure">measure</string>
+    <string name="type">type</string>
+    <string name="recettes">Recettes</string>
+</resources>
