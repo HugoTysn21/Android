@@ -116,6 +116,8 @@ public class MeasurementActivity extends AppCompatActivity
                                 /* startActivity(intent);*/
                                 mChart.notifyDataSetChanged();
                                 mChart.invalidate();
+
+                                Toast.makeText(MeasurementActivity.this, "Cliquer sur un autre onglet pour que le graph s'actualise. je n'arrive pas a set les data quand je lui ajoute une donnée", Toast.LENGTH_LONG).show();
                             }
                         })
                         .setNegativeButton("retour", new DialogInterface.OnClickListener() {
